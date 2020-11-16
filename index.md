@@ -1,10 +1,10 @@
 # About the Authors
 ## Haley Granger
-Haley is an undergraduate Computer Science major with a minor in Game Design. She is interested in furthering her knowledge in the Machine Learning and AI fields. Projected graduation is in July 2021 and she hopes to find a job in the Machine Learning fields doing biological research, robotics, or automation. <br />
+Haley is an undergraduate Computer Science major with a minor in Game Design. She is interested in furthering her knowledge in the Machine Learning and AI fields. Projected graduation is in July 2021 and she hopes to find a job in the Machine Learning fields doing biological research, robotics, or automation.
 ### Project contributions
 - Implemented recurrent neural network(RNN)
 - Created/Modified DanQ changes and implementations in a virtual environment
-- Created/Modified ExPecto changes and implementations in a virtual environment<br />
+- Created/Modified ExPecto changes and implementations in a virtual environment
 ### Other Projects
 - Internet of Things(IoT) research conducting ai-benchmark tests on Nvidia Jetson TX2 device and analyzing results with Dr. Kun Suo at Kennesaw State University ([Link](https://kevinsuo.github.io/code-lab.html))
 - Undergraduate Research Assistant creating blueprints and lesson plans for youths interested in STEM fields with Sandra Jones at Kennesaw State University 
