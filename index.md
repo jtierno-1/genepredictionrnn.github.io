@@ -1,3 +1,6 @@
+# Project Information
+For more information about the project, click the link to go to the [github repository](https://github.com/arizonagranger/genepredictionrnn.github.io). The README will explain in further details as well as the unpublished PDF version of the research paper.
+
 # About the Authors
 ## Haley Granger
 Haley is an undergraduate Computer Science major with a minor in Game Design. She is interested in furthering her knowledge in the Machine Learning and AI fields. Projected graduation is in July 2021 and she hopes to find a job in the Machine Learning fields doing biological research, robotics, or automation.
