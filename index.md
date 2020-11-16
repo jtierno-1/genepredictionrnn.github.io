@@ -33,8 +33,7 @@ Haley is an undergraduate Computer Science major with a minor in Game Design. Sh
 - <INSERT OTHER PROJECTS>
 
 ### Contact Joe
-[LinkedIn](insert linkedin url)<br />
-[Email](insert email)
+[Email](jtierno@students.kennesaw.edu)
 
 
 
