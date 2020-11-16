@@ -1,5 +1,5 @@
-# Pseudogene Prediction with Machine Learning
-Pseudogene prediction RNN and other architectures
+# Gene Sequence Prediction with Machine Learning
+Pseudogene and other gene sequence predictions using a RNN and other architectures
 
 Fall 2020 Research Project by: Haley Granger and Joe Tierno
 > Faculty Advisor: Dr. Muhammad Aledhari
