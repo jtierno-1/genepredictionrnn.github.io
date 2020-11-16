@@ -1,6 +1,6 @@
 # Gene Sequence Prediction with Machine Learning
 > Fall 2020 Research Project by: Haley Granger and Joe Tierno<br />
-> Faculty Advisor: Dr. Muhammad Aledhari
+> Faculty Advisor: Dr. Mohammed Aledhari
 
 ### Introduction
 Pseudogene and other gene sequence predictions using a RNN and other architectures. Using machine learning models ExPecto and DanQ we have attempted at finding pseudogenes based on the small mutations in noncoding regions of the human genome. Both ExPecto and DanQ utilize models which predict the function of DNA based on sequence data and can infer changes to gene expression based on comparing the input sequence to the training model.
