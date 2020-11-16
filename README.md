@@ -11,9 +11,9 @@ Pseudogenes have long been thought to lack a function, but have recently been fo
 
 ### Our Implementation
 We have three different implementations we explored for predicting pseudogenes with a RNN:<br />
--ExPecto Architecture (https://github.com/FunctionLab/ExPecto)<br />
--DanQ Architecture (https://github.com/uci-cbcl/DanQ)<br />
--RNN we created<br />
+- ExPecto Architecture (https://github.com/FunctionLab/ExPecto)<br />
+- DanQ Architecture (https://github.com/uci-cbcl/DanQ)<br />
+- RNN we created<br />
 
 We used ExPecto and DanQ models which were trained with datasets from DeepSEA(http://deepsea.princeton.edu/job/analysis/create/). ExPecto uses the data and creates a model which can identify common motifs found in the sequence and predict possible changes to chromatin based on the mutations. DanQ is able to predict possible function based on sequence data. Together it is possible to determine a possible function and identify if the mutations in the region could affect genetic packaging.
 
