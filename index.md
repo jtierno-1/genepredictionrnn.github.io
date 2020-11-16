@@ -21,16 +21,12 @@ Haley is an undergraduate Computer Science major with a minor in Game Design. Sh
 
 
 ## Joe Tierno
-<INSERT PERSONAL INFORMATION: information about team members (roles in the project, pictures, projected graduation date, a desire to intern, a dream job, other projects you worked on and a way to be contacted, LinkedIn link).>
+Joe is a graduate Computer Science student with a background in biochemistry. After getting a Master's in Biology and working in the private sector he has decided to take his skills and knowledge to Computer Science. He hopes to bridge the gap between biology and using a computer as getting software that is simple to use or models that are understandable is a challenge in big pharma.
 
 ### Project contributions
 - Contributed vast biological and genetic knowledge
 - Created/Modified DanQ changes and implementations in a virtual environment
 - Created/Modified ExPecto changes and implementations in a virtual environment
-
-### Other Projects
-- <INSERT BULLETED LIST>
-- <INSERT OTHER PROJECTS>
 
 ### Contact Joe
 [Email](jtierno@students.kennesaw.edu)
