@@ -1,39 +1,38 @@
-## Welcome to GitHub Pages
+# About the Authors
+## Haley Granger
+Haley is an undergraduate Computer Science major with a minor in Game Design. She is interested in furthering her knowledge in the Machine Learning and AI fields. Projected graduation is in July 2021 and she hopes to find a job in the Machine Learning fields doing biological research, robotics, or automation. <br />
+### Project contributions
+- Implemented recurrent neural network(RNN)
+- Created/Modified DanQ changes and implementations in a virtual environment
+- Created/Modified ExPecto changes and implementations in a virtual environment<br />
+### Other Projects
+- Internet of Things(IoT) research conducting ai-benchmark tests on Nvidia Jetson TX2 device and analyzing results with Dr. Kun Suo at Kennesaw State University ([Link](https://kevinsuo.github.io/code-lab.html))
+- Undergraduate Research Assistant creating blueprints and lesson plans for youths interested in STEM fields with Sandra Jones at Kennesaw State University 
 
-You can use the [editor on GitHub](https://github.com/arizonagranger/genepredictionrnn.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Contact Haley
+[LinkedIn](www.linkedin.com/in/arizona-haley-granger-7b64a496)<br />
+[Email](agrange5@students.kennesaw.edu)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Joe Tierno
+<INSERT PERSONAL INFORMATION: information about team members (roles in the project, pictures, projected graduation date, a desire to intern, a dream job, other projects you worked on and a way to be contacted, LinkedIn link).>
 
-- Bulleted
-- List
+### Project contributions
+- Contributed vast biological and genetic knowledge
+- Created/Modified DanQ changes and implementations in a virtual environment
+- Created/Modified ExPecto changes and implementations in a virtual environment
 
-1. Numbered
-2. List
+### Other Projects
+- <INSERT BULLETED LIST>
+- <INSERT OTHER PROJECTS>
 
-**Bold** and _Italic_ and `Code` text
+### Contact Joe
+[LinkedIn](insert linkedin url)<br />
+[Email](insert email)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arizonagranger/genepredictionrnn.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-# Sequence Prediction using Machine Learning
+### Faculty Supervisor: Dr. Mohammed Aledhari
